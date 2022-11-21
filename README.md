@@ -20,13 +20,13 @@ Repositorio dos materiais do curso Devs2Blu
 
 - [X] Conexão com o banco de dados usando FIREDAC;
 - [ ] Generics;
+- [ ] Trabalhando com listas;
 - [ ] Bibliotecas e componentes;
   - [ ] Propriedades métodos e eventos;
 - [ ] Objetos, componentes e controladores;
 - [ ] Manipulação de arquivos INI;
-- [ ] Trabalhando com listas;
+- [ ] Data e hora;
 - [X] Trabalhando com forms;
 - [X] Manipulação de erros;
 - [ ] Gráficos;
-- [ ] Data e hora;
 - [ ] Timer;
