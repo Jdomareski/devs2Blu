@@ -28,7 +28,4 @@ Repositorio dos materiais do curso Devs2Blu
 - [X] Trabalhando com forms;
 - [ ] Gráficos;
 - [ ] Data e hora;
-- [X] Trabalhando com forms;
-- [X] Manipulação de erros;
-- [ ] Gráficos;
 - [ ] Timer;
