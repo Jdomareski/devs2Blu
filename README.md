@@ -1,19 +1,22 @@
 # devs2Blu
+
 Repositorio dos materiais do curso Devs2Blu
 
 ## Grade
 
 ### SQL Avançado
 - [X] DCL - Data Control Language;
-    - [X] GRANT;
-    - [X] REVOKE;
+  - [X] GRANT;
+  - [X] REVOKE;
 - [X] TCL;
-    - [X] COMMIT;
-    - [X] ROOLBACK;
-    - [X] SAVEPOINT;
+  - [X] COMMIT;
+  - [X] ROOLBACK;
+  - [X] ROLLBACK;
+  - [X] SAVEPOINT;
 - [X] Otimização de queries;
 
 ### Delphi avançado
+
 - [X] Conexão com o banco de dados usando FIREDAC;
 - [X] Manipulação de erros;
 - [X] Generics;
@@ -25,7 +28,7 @@ Repositorio dos materiais do curso Devs2Blu
 - [X] Trabalhando com forms;
 - [ ] Gráficos;
 - [ ] Data e hora;
+- [X] Trabalhando com forms;
+- [X] Manipulação de erros;
+- [ ] Gráficos;
 - [ ] Timer;
-
-
-
