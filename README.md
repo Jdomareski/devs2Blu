@@ -27,5 +27,5 @@ Repositorio dos materiais do curso Devs2Blu
 - [X] Trabalhando com listas;
 - [X] Trabalhando com forms;
 - [ ] Gráficos;
-- [ ] Data e hora;
+- [X] Data e hora;
 - [ ] Timer;
